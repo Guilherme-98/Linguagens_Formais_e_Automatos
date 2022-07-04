@@ -1,0 +1,18 @@
+Oi Guilherme,
+
+peguei pelo Classroom sua P2 de LFA e abaixo está sua nota e correções.
+
+Guilherme Henrique
+1) Não fez. Zero
+
+2) Está reconhecendo várias cadeias inválidas como aba, abb, etc. E outras erradas como abba. Erro conceitual aqui tratando união como concatenação. Zero.
+
+3) ok 2.5
+
+4) ok 2.5
+
+Nota: 5.0
+
+
+
+Profa Cinthyan
